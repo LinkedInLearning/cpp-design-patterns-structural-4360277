@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/knyisztor/! Projects/2. Courses/LinkedIn Learning/C++ Design Patterns: Structural/Ch01-The Adapter/src/01_04/begin",
+      "program": "/Users/knyisztor/! Projects/2. Courses/LinkedIn Learning/C++ Design Patterns: Structural/Ch01-The Adapter/src/01_04/begin/build/Debug/outDebug"
+    }
+  ]
+}
