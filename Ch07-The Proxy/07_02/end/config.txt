@@ -1,0 +1,3 @@
+zoom = 2
+reader = false
+scheme = dark
